@@ -1,0 +1,11 @@
+{
+  "name": "pandemyth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:phoomparin/pandemyth.git",
+  "author": "Phoomparin Mano <phoomparin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-plugin-static-files-copy": "^2.3.1"
+  }
+}
