@@ -8,6 +8,7 @@
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
     "@types/node": "^12.0.2",
+    "classnames": "^2.2.6",
     "color": "^3.1.2",
     "howler": "^2.2.0",
     "luxon": "^1.13.2",
@@ -17,6 +18,7 @@
     "mobx-state-tree": "^3.16.0",
     "react": "^16.8.0 || 16.9.0-alpha.0",
     "react-dom": "^16.8.6",
+    "three": "^0.117.1",
     "webmidi": "^2.5.1"
   },
   "devDependencies": {
@@ -27,6 +29,7 @@
     "@storybook/addon-links": "^5.0.11",
     "@storybook/addons": "^5.0.11",
     "@storybook/react": "^5.0.11",
+    "@types/classnames": "^2.2.10",
     "@types/howler": "^2.1.2",
     "@types/jest": "^24.0.13",
     "@types/luxon": "^1.13.0",
