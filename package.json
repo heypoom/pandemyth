@@ -18,7 +18,7 @@
     "mobx-state-tree": "^3.16.0",
     "react": "^16.8.0 || 16.9.0-alpha.0",
     "react-dom": "^16.8.6",
-    "three": "^0.117.1",
+    "three": "^0.125.0",
     "webmidi": "^2.5.1"
   },
   "devDependencies": {
